@@ -1,0 +1,23 @@
+# JavaScript Button Project 🚀
+
+This is a simple JavaScript project that demonstrates how to use: 
+SO in this file i demonstrate all these thing easy for understanding
+
+- getElementById()
+- addEventListener()
+- alert()
+- window.open()
+
+## 📌 Features
+
+- Button 1 shows an alert message
+- Button 1 opens a new page (about.html)
+- Button 2 shows a different alert message
+
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 📂 Project Structure
